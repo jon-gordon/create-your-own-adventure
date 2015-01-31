@@ -6,3 +6,5 @@ Do you?
 [Turn on the chocolate sprinkler!](../sprinkler/eating-chocolate.md)
 
 [Scream for help?](../../sleep/scream-help/scream-help.md)
+
+[Ask Google?](https://www.google.com)
